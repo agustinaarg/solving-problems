@@ -19,3 +19,7 @@ https://www.spoj.com/problems/EC_MODE/
 #6 traffic_network 
 https://www.spoj.com/problems/TRAFFICN/
 
+#Master branch 
+
+Here we have the implementation of a binary tree structure and a trie structure.
+
