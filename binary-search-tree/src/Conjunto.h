@@ -45,10 +45,6 @@ public:
 
 private:
 
-    /**
-     * Completar con lo que sea necesario...
-     **/
-
     struct Nodo {
         Nodo(const T &v);
 
